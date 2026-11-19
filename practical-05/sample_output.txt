@@ -1,0 +1,21 @@
+PS C:\Users\Student\cpp-practicals> g++ practical5.cpp -o practical5
+PS C:\Users\Student\cpp-practicals> .\practical5.exe
+----- INHERITANCE DEMONSTRATION -----
+Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034 ----- PERSON DETAILS -----
+Name: Satinderpal Singh Chaney
+Age: 20
+----- STUDENT DETAILS -----
+Name: Satinderpal Singh Chaney
+Student ID: E26B00S2034
+Course: Computer Science Engineering
+----- GRADUATE STUDENT DETAILS -----
+Name: Satinderpal Singh Chaney
+Student ID: E26B00S2034
+Course: Computer Science Engineering
+Research Topic: Artificial Intelligence
+Supervisor: Computer Science Department
+Single Inheritance Demonstrated!
+Multilevel Inheritance Demonstrated!
+Program executed successfully.
+PS C:\Users\Student\cpp-practicals>
